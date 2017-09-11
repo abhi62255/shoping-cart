@@ -12,6 +12,7 @@
 	$_SESSION['i2']=1;
 	$_SESSION['i3']=1;
 	$_SESSION['i4']=1;
+	$_SESSION[['price']=0;
 	header('Location: home.php');
 	
 ?>

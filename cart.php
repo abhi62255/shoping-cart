@@ -6,7 +6,8 @@
 		{	
 			foreach( (array) $_SESSION['item'.$i] as $var)
 			{
-				echo $var."<br>";
+				$_SESSION['value']=$var;
+				header('Location: test.php');
 			}
 		}
 	}
