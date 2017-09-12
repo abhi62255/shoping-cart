@@ -12,11 +12,11 @@
 						<html>
 						<body>
 							<form action="selected.php"; method="post">
-								<input type="checkbox" name="mobile[]" value="NOKIA">NOKIA<br>
-								<input type="checkbox" name="mobile[]" value="SONY" >SONY<br>
-								<input type="checkbox" name="mobile[]" value="SAMSUNG" >SAMSUNG<br>
-								<input type="checkbox" name="mobile[]" value="MICROMAX">MICROMAX<br>
-								<input type="checkbox" name="mobile[]" value="APPLE" >APPLE<br>
+								<input type="checkbox" name="mobile[]" value="Apple iPhone 7 (Black, 32GB) by Apple">Apple iPhone 7 (Black, 32GB) by Apple<br>
+								<input type="checkbox" name="mobile[]" value="Coolpad Note 5 (Space Grey, 32 GB) by Coolpad" >Coolpad Note 5 (Space Grey, 32 GB) by Coolpad<br>
+								<input type="checkbox" name="mobile[]" value="Lenovo Z2 Plus (Black, 64GB) by Lenovo" >Lenovo Z2 Plus (Black, 64GB) by Lenovo<br>
+								<input type="checkbox" name="mobile[]" value="Samsung On5 Pro (Gold) by Samsung">Samsung On5 Pro (Gold) by Samsung<br>
+								<input type="checkbox" name="mobile[]" value="Moto G5s Plus (Lunar Grey, 64GB) by Motorola" >Moto G5s Plus (Lunar Grey, 64GB) by Motorola<br>
 								<input type="submit" name="mobile1" value="ADD TO CART">
 							</form>
 							<a href="home.php">HOME MENU</a>

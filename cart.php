@@ -1,13 +1,16 @@
 <?php
 	session_start();
+	include 'test.php';
 	if($_SESSION['itemm']==1)	
 	{	
 		for($i=1; $i<$_SESSION['m']; $i++)
-		{	
+		{	$_SESSION['key']=0;
 			foreach( (array) $_SESSION['item'.$i] as $var)
 			{
+				$_SESSION['array_name']='item'.$i;
 				$_SESSION['value']=$var;
-				header('Location: test.php');
+				call();
+				$_SESSION['key']=$_SESSION['key']+1;
 			}
 		}
 	}
@@ -17,7 +20,8 @@
 		{					
 			foreach( (array) $_SESSION['item2'.$i] as $var)
 			{
-				echo $var."<br>";
+				$_SESSION['value']=$var;
+				call();
 			}
 		}
 	}
@@ -27,7 +31,8 @@
 		{			
 			foreach( (array) $_SESSION['item3'.$i] as $var)
 			{
-				echo $var."<br>";
+				$_SESSION['value']=$var;
+				call();
 			}
 		}
 	}
@@ -37,7 +42,8 @@
 		{					
 			foreach( (array) $_SESSION['item4'.$i] as $var)
 			{
-				echo $var."<br>";
+				$_SESSION['value']=$var;
+				call();
 			}
 		}
 	}
