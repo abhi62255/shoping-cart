@@ -17,11 +17,14 @@
 	if($_SESSION['itemp']==1)
 	{	
 		for($i=1; $i<$_SESSION['m2']; $i++)
-		{					
+		{		
+			$_SESSION['key']=0;			
 			foreach( (array) $_SESSION['item2'.$i] as $var)
 			{
+				$_SESSION['array_name']='item'.$i;
 				$_SESSION['value']=$var;
 				call();
+				$_SESSION['key']=$_SESSION['key']+1;
 			}
 		}
 	}
