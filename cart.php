@@ -58,8 +58,3 @@
 		}
 	}
 ?>
-<html>
-<body>
- <a href="home.php">GO HOME</a>
-</body>
-</html>

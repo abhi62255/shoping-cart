@@ -6,10 +6,10 @@
 <body bgcolor="#CCCCCC">
 <div style="background-color:#FFFFFF; height:100px; width:1264px; margin-top:0px; border-radius:5px;">
 		<div style="float:left;">
-			<img src="fellowship-amazon-logo.png"  align="left" align="top" height="100" width="200"/>
+			<img src="images/fellowship-amazon-logo.png"  align="left" align="top" height="100" width="200"/>
 		</div>
 		<div style="float: right;height: 40px;margin-top: 55px;margin-right: 5px;">
-			<h3 align="right" style="margin-right:10px; font-weight:bold;">Welcome Mr. Abhishek     <a href="logout.php" style="text-decoration:none; color:#0066FF; font-weight:bold;">Log Out</a></h3>
+			<h3 align="right" style="margin-right:10px; font-weight:bold;">Welcome Mr. Abhishek  <a href="home.php" style="text-decoration:none; color:#0066FF; font-weight:bold;">Home</a>   <a href="logout.php" style="text-decoration:none; color:#0066FF; font-weight:bold;">Log Out</a></h3>
 		</div>	
 	</div>
 	<hr>
@@ -231,184 +231,521 @@
 	}
 	if($_SESSION['value']=='SanDisk Cruzer Blade 32GB USB Flash Drive by Copper')	
 	{
-		echo"SanDisk Cruzer Blade 32GB USB Flash Drive by Copper";
 		$array_nameM5=$_SESSION['array_name'];
 		$keyM5=$_SESSION['key'];
 ?>
-			<form action="delete.php" method="post">
+	<div>
+		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+			<div style="margin-left:10px; padding:21px;">
+				<img src="images/71Q8QsmuSAL._SL1417_.jpg" align="left" height="100" width="75" >
+			</div>
+			<div style="height: 126px;width: 700;float: left;margin-left: -35px;margin-top: -60px;">
+				<pre style="font-size: 19px;">
+					<span style="color:#0066FF; font-weight:bold;">SanDisk Cruzer Blade 32GB USB Flash Drive</span> by Copper
+					<span style="color:#009900;">In stock</span>
+					M.R.P.:  <span style=" font-size:16px;"><strike>990.00</strike></span>
+					Price:	 <span style="color:#FF0000;">718.00</span> <span style="color:#009900;">FREE Delivery</span>
+    
+					Gift options not available.
+				</pre>
+			</div>
+			<div style="float: left;height: 126px;margin-top: -30px;font-size: 18px;margin-left: -90px;font-weight: bold;">
+				<pre>
+				Sold by Cloudtail India 
+				(4.3 out of 5 | 90,512 ratings) 
+				and Fulfilled by Amazon. Gift-wrap available.
+				<form action="delete.php" method="post">
 				<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;" type="submit" name="submit" value="REMOVE">
 				<input type="hidden" value=<?php echo $array_nameM5;  ?> name="array_name">
 				<input type="hidden" value=<?php echo $keyM5;  ?> name="key" >
 				<input type="hidden" value="SanDisk Cruzer Blade 32GB USB Flash Drive by Copper" name='name'>
 			</form>
+				</pre>
+			</div>
+			
+		</div>
+		<hr>
+	</div>
+			
 <?php
 	}
 	if($_SESSION['value']=='SanDisk Ultra Dual 32GB USB 3.0 OTG Pen Drive by SanDisk')	
 	{
-		echo"SanDisk Ultra Dual 32GB USB 3.0 OTG Pen Drive by SanDisk";
 		$array_nameM5=$_SESSION['array_name'];
 		$keyM5=$_SESSION['key'];
 ?>
-			<form action="delete.php" method="post">
+	<div>
+		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+			<div style="margin-left:10px; padding:21px;">
+				<img src="images/61wwFOWnEGL._SL1500_.jpg" align="left" height="100" width="75" >
+			</div>
+			<div style="height: 126px;width: 700;float: left;margin-left: -35px;margin-top: -60px;">
+				<pre style="font-size: 19px;">
+					<span style="color:#0066FF; font-weight:bold;">SanDisk Ultra Dual 32GB USB 3.0 OTG Pen Drive</span> by SanDisk
+					<span style="color:#009900;">In stock</span>
+					M.R.P.:  <span style=" font-size:16px;"><strike>1,290.00</strike></span>
+					Price:	 <span style="color:#FF0000;">849.00</span> <span style="color:#009900;">FREE Delivery</span>
+    
+					Gift options not available.
+				</pre>
+			</div>
+			<div style="float: left;height: 126px;margin-top: -30px;font-size: 18px;margin-left: -90px;font-weight: bold;">
+				<pre>
+				Sold by Cloudtail India
+				(4.3 out of 5 | 90,584 ratings)
+				and Fulfilled by Amazon. Gift-wrap available.
+				<form action="delete.php" method="post">
 				<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;" type="submit" name="submit" value="REMOVE">
 				<input type="hidden" value=<?php echo $array_nameM5;  ?> name="array_name">
 				<input type="hidden" value=<?php echo $keyM5;  ?> name="key" >
 				<input type="hidden" value="SanDisk Ultra Dual 32GB USB 3.0 OTG Pen Drive by SanDisk" name='name'>
 			</form>
+				</pre>
+			</div>
+			
+		</div>
+		<hr>
+	</div>
+			
 <?php
 	}
 	if($_SESSION['value']=='SanDisk Cruzer Force 16GB USB Flash Drive by MATEL CASING')	
 	{
-		echo"SanDisk Cruzer Force 16GB USB Flash Drive by MATEL CASING";
 		$array_nameM5=$_SESSION['array_name'];
 		$keyM5=$_SESSION['key'];
 ?>
-			<form action="delete.php" method="post">
+	<div>
+		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+			<div style="margin-left:10px; padding:21px;">
+				<img src="images/61x2-N8ea+L._SL1100_.jpg" align="left" height="100" width="75" >
+			</div>
+			<div style="height: 126px;width: 700;float: left;margin-left: -35px;margin-top: -60px;">
+				<pre style="font-size: 19px;">
+					<span style="color:#0066FF; font-weight:bold;">SanDisk Cruzer Force 16GB USB Flash Drive</span> by MATEL CASING
+					<span style="color:#009900;">In stock</span>
+					M.R.P.:  <span style=" font-size:16px;"><strike>590.00</strike></span>
+					Price:	 <span style="color:#FF0000;">582.00</span> <span style="color:#009900;">FREE Delivery</span>
+    
+					Gift options not available.
+				</pre>
+			</div>
+			<div style="float: left;height: 126px;margin-top: -30px;font-size: 18px;margin-left: -90px;font-weight: bold;">
+				<pre>
+				Sold by Suvidha Mobile
+				(4.1 out of 5 | 98 ratings)
+				and Fulfilled by Amazon. Gift-wrap available.
+				<form action="delete.php" method="post">
 				<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;" type="submit" name="submit" value="REMOVE">
 				<input type="hidden" value=<?php echo $array_nameM5;  ?> name="array_name">
 				<input type="hidden" value=<?php echo $keyM5;  ?> name="key" >
 				<input type="hidden" value="SanDisk Cruzer Force 16GB USB Flash Drive by MATEL CASING" name='name'>
 			</form>
+				</pre>
+			</div>
+			
+		</div>
+		<hr>
+	</div>
+		
 <?php
 	}
 	if($_SESSION['value']=='Strontium Nitro Plus OTG Pen Drive, USB3.0, 32GB')	
 	{
-		echo"Strontium Nitro Plus OTG Pen Drive, USB3.0, 32GB";
 		$array_nameM5=$_SESSION['array_name'];
 		$keyM5=$_SESSION['key'];
 ?>
+	<div>
+		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+			<div style="margin-left:10px; padding:21px;">
+				<img src="images/61IQNDSjIQL._SL1500_.jpg" align="left" height="100" width="75" >
+			</div>
+			<div style="height: 126px;width: 700;float: left;margin-left: -35px;margin-top: -60px;">
+				<pre style="font-size: 19px;">
+					<span style="color:#0066FF; font-weight:bold;">Strontium Nitro Plus OTG Pen Drive, USB3.0, 32GB</span> by Strontium
+					<span style="color:#009900;">In stock</span>
+					M.R.P.:  <span style=" font-size:16px;"><strike>1,699.00</strike></span>
+					Price:	 <span style="color:#FF0000;">1,149.00</span> <span style="color:#009900;">FREE Delivery</span>
+    
+					Gift options not available.
+				</pre>
+			</div>
+			<div style="float: left;height: 126px;margin-top: -30px;font-size: 18px;margin-left: -90px;font-weight: bold;">
+				<pre>
+				Sold by Cloudtail India
+				(4.3 out of 5 | 90,560 ratings)
+				and Fulfilled by Amazon. Gift-wrap available.
 			<form action="delete.php" method="post">
 				<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;" type="submit" name="submit" value="REMOVE">
 				<input type="hidden" value=<?php echo $array_nameM5;  ?> name="array_name">
 				<input type="hidden" value=<?php echo $keyM5;  ?> name="key" >
 				<input type="hidden" value="Strontium Nitro Plus OTG Pen Drive, USB3.0, 32GB" name='name'>
 			</form>
+				</pre>
+			</div>
+			
+		</div>
+		<hr>
+	</div>
 <?php
 	}
 	if($_SESSION['value']=='Strontium Ammo 16GB 2.0 USB Pen Drive (Silver)')	
 	{
-		echo"Strontium Ammo 16GB 2.0 USB Pen Drive (Silver)";
 		$array_nameM5=$_SESSION['array_name'];
 		$keyM5=$_SESSION['key'];
 ?>
-			<form action="delete.php" method="post">
+	<div>
+		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+			<div style="margin-left:10px; padding:21px;">
+				<img src="images/51sSkMlxqgL.jpg" align="left" height="100" width="75" >
+			</div>
+			<div style="height: 126px;width: 700;float: left;margin-left: -35px;margin-top: -60px;">
+				<pre style="font-size: 19px;">
+					<span style="color:#0066FF; font-weight:bold;">Strontium Ammo 16GB 2.0 USB Pen Drive (Silver)</span> by Strontium
+					<span style="color:#009900;">In stock</span>
+					M.R.P.:  <span style=" font-size:16px;"><strike>649.00</strike></span>
+					Price:	 <span style="color:#FF0000;">419.00</span> <span style="color:#009900;">FREE Delivery</span>
+    
+					Gift options not available.
+				</pre>
+			</div>
+			<div style="float: left;height: 126px;margin-top: -30px;font-size: 18px;margin-left: -90px;font-weight: bold;">
+				<pre>
+				Sold by Cloudtail India
+				(4.3 out of 5 | 90,593 ratings)
+				and Fulfilled by Amazon. Gift-wrap available. 
+				<form action="delete.php" method="post">
 				<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;" type="submit" name="submit" value="REMOVE">
 				<input type="hidden" value=<?php echo $array_nameM5;  ?> name="array_name">
 				<input type="hidden" value=<?php echo $keyM5;  ?> name="key" >
 				<input type="hidden" value="Strontium Ammo 16GB 2.0 USB Pen Drive (Silver)" name='name'>
 			</form>
+				</pre>
+			</div>
+			
+		</div>
+		<hr>
+	</div>
+		
 <?php
 	}
 	if($_SESSION['value']=='Apple iPod Shuffle MKMJ2HN/A 2GB Music Player (Space Grey) by Apple')	
 	{
-		echo"Apple iPod Shuffle MKMJ2HN/A 2GB Music Player (Space Grey) by Apple";
 		$array_nameM5=$_SESSION['array_name'];
 		$keyM5=$_SESSION['key'];
 ?>
-			<form action="delete.php" method="post">
+	<div>
+		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+			<div style="margin-left:10px; padding:21px;">
+				<img src="images/21h5V3qDQmL.jpg" align="left" height="100" width="75" >
+			</div>
+			<div style="height: 126px;width: 700;float: left;margin-left: -35px;margin-top: -60px;">
+				<pre style="font-size: 19px;">
+					<span style="color:#0066FF; font-weight:bold;">Apple iPod Shuffle MKMJ2HN/A 2GB Music Player</span> by Apple
+					<span style="color:#009900;">In stock</span>
+					M.R.P.:  <span style=" font-size:16px;"><strike>4,300.00</strike></span>
+					Price:	 <span style="color:#FF0000;">3,809.00</span> <span style="color:#009900;">FREE Delivery</span>
+    
+					Gift options not available.
+				</pre>
+			</div>
+			<div style="float: left;height: 126px;margin-top: -30px;font-size: 18px;margin-left: -90px;font-weight: bold;">
+				<pre>
+				Sold by ADVANCE MAX
+				(4.2 out of 5 | 108 ratings)
+				and Fulfilled by Amazon. Gift-wrap available.
+				<form action="delete.php" method="post">
 				<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;" type="submit" name="submit" value="REMOVE">
 				<input type="hidden" value=<?php echo $array_nameM5;  ?> name="array_name">
 				<input type="hidden" value=<?php echo $keyM5;  ?> name="key" >
 				<input type="hidden" value="Apple iPod Shuffle MKMJ2HN/A 2GB Music Player (Space Grey) by Apple" name='name'>
 			</form>
+				</pre>
+			</div>
+			
+		</div>
+		<hr>
+	</div>
+			
 <?php
 	}
 	if($_SESSION['value']=='Captcha Green Sports Shuffle Real Aluminium Metal Body Mp3 Audio Music Player With Tf Card Slot (One Year Warranty, Color May Vary) by captcha')	
 	{
-		echo"Captcha Green Sports Shuffle Real Aluminium Metal Body Mp3 Audio Music Player With Tf Card Slot (One Year Warranty, Color May Vary) by captcha";
 		$array_nameM5=$_SESSION['array_name'];
 		$keyM5=$_SESSION['key'];
 ?>
-			<form action="delete.php" method="post">
+	<div>
+		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+			<div style="margin-left:10px; padding:21px;">
+				<img src="images/41X+I8ExTlL.jpg" align="left" height="100" width="75" >
+			</div>
+			<div style="height: 126px;width: 700;float: left;margin-left: -35px;margin-top: -60px;">
+				<pre style="font-size: 19px;">
+					<span style="color:#0066FF; font-weight:bold;">Captcha Green Sports Shuffle</span> by captcha
+					<span style="color:#009900;">In stock</span>
+					M.R.P.:  <span style=" font-size:16px;"><strike>718.00</strike></span>
+					Price:	 <span style="color:#FF0000;">399.00</span> <span style="color:#009900;">FREE Delivery</span>
+    
+					Gift options not available.
+				</pre>
+			</div>
+			<div style="float: left;height: 126px;margin-top: -30px;font-size: 18px;margin-left: -90px;font-weight: bold;">
+				<pre>
+				Sold and fulfilled by ShoppersGallery 
+				(4.1 out of 5 | 2,812 ratings)
+				
+				<form action="delete.php" method="post">
 				<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;" type="submit" name="submit" value="REMOVE">
 				<input type="hidden" value=<?php echo $array_nameM5;  ?> name="array_name">
 				<input type="hidden" value=<?php echo $keyM5;  ?> name="key" >
 				<input type="hidden" value="Captcha Green Sports Shuffle Real Aluminium Metal Body Mp3 Audio Music Player With Tf Card Slot (One Year Warranty, Color May Vary) by captcha" name='name'>
 			</form>
+				</pre>
+			</div>
+			
+		</div>
+		<hr>
+	</div>
+			
 <?php
 	}
 	if($_SESSION['value']=='Apple 16GB 6th Generation iPod Nano (Space Grey) by Apple')	
 	{
-		echo"Apple 16GB 6th Generation iPod Nano (Space Grey) by Apple";
 		$array_nameM5=$_SESSION['array_name'];
 		$keyM5=$_SESSION['key'];
 ?>
-			<form action="delete.php" method="post">
+	<div>
+		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+			<div style="margin-left:10px; padding:21px;">
+				<img src="images/31mWIbN1qML.jpg" align="left" height="100" width="75" >
+			</div>
+			<div style="height: 126px;width: 700;float: left;margin-left: -35px;margin-top: -60px;">
+				<pre style="font-size: 19px;">
+					<span style="color:#0066FF; font-weight:bold;">Apple 16GB 6th Generation iPod Nano (Space Grey)</span> by Apple
+					<span style="color:#009900;">In stock</span>
+					M.R.P.:  <span style=" font-size:16px;"><strike>13,900.00</strike></span>
+					Price:	 <span style="color:#FF0000;">12,999.00</span> <span style="color:#009900;">FREE Delivery</span>
+    
+					Gift options not available.
+				</pre>
+			</div>
+			<div style="float: left;height: 126px;margin-top: -30px;font-size: 18px;margin-left: -90px;font-weight: bold;">
+				<pre>
+				Sold and fulfilled by offerbajar
+				(4.7 out of 5 | 70 ratings)
+				
+				<form action="delete.php" method="post">
 				<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;" type="submit" name="submit" value="REMOVE">
 				<input type="hidden" value=<?php echo $array_nameM5;  ?> name="array_name">
 				<input type="hidden" value=<?php echo $keyM5;  ?> name="key" >
 				<input type="hidden" value="Apple 16GB 6th Generation iPod Nano (Space Grey) by Apple" name='name'>
 			</form>
+				</pre>
+			</div>
+			
+		</div>
+		<hr>
+	</div>
+			
 <?php
 	}
 	if($_SESSION['value']=='Apple MacBook Pro MJLQ2HN/A 15-inch Laptop (Core i7/16GB/256GB/Mac OS/Integrated Graphics) by MacSafe')	
 	{
-		echo"Apple MacBook Pro MJLQ2HN/A 15-inch Laptop (Core i7/16GB/256GB/Mac OS/Integrated Graphics) by MacSafe";
 		$array_nameM5=$_SESSION['array_name'];
 		$keyM5=$_SESSION['key'];
 ?>
-			<form action="delete.php" method="post">
+	<div>
+		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+			<div style="margin-left:10px; padding:21px;">
+				<img src="images/71UqSAcUeaL._SL1500_.jpg" align="left" height="100" width="130" >
+			</div>
+			<div style="height: 126px;width: 700;float: left;margin-left: -90px;margin-top: -60px;">
+				<pre style="font-size: 19px;">
+					<span style="color:#0066FF; font-weight:bold;">Apple MacBook Pro MJLQ2HN/A 15-inch Laptop</span> by MacSafe
+					<span style="color:#009900;">In stock</span>
+					M.R.P.:  <span style=" font-size:16px;"><strike>154,900.00</strike></span>
+					Price:	 <span style="color:#FF0000;">140,875.00</span> <span style="color:#009900;">FREE Delivery</span>
+    
+					Gift options not available.
+				</pre>
+			</div>
+			<div style="float: left;height: 126px;margin-top: -30px;font-size: 18px;margin-left: -90px;font-weight: bold;">
+				<pre>
+				Sold by FIRST ENTERPRISES
+				(4.6 out of 5 | 50 ratings)
+				and Fulfilled by Amazon. Gift-wrap available.
+				<form action="delete.php" method="post">
 				<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;" type="submit" name="submit" value="REMOVE">
 				<input type="hidden" value=<?php echo $array_nameM5;  ?> name="array_name">
 				<input type="hidden" value=<?php echo $keyM5;  ?> name="key" >
 				<input type="hidden" value="Apple MacBook Pro MJLQ2HN/A 15-inch Laptop (Core i7/16GB/256GB/Mac OS/Integrated Graphics) by MacSafe" name='name'>
 			</form>
+				</pre>
+			</div>
+			
+		</div>
+		<hr>
+	</div>
+			
 <?php
 	}
 	if($_SESSION['value']=='Apple MacBook Pro MLW72HN/A Laptop 2016 (Core i7-2.6GHz/16GB/256GB/MacOS Sierra/2GB Graphic/Touch Bar),Silver by Apple')	
 	{
-		echo"Apple MacBook Pro MLW72HN/A Laptop 2016 (Core i7-2.6GHz/16GB/256GB/MacOS Sierra/2GB Graphic/Touch Bar),Silver by Apple";
 		$array_nameM5=$_SESSION['array_name'];
 		$keyM5=$_SESSION['key'];
 ?>
-			<form action="delete.php" method="post">
+	<div>
+		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+			<div style="margin-left:10px; padding:21px;">
+				<img src="images/41q0Oprn2IL.jpg" align="left" height="100" width="130" >
+			</div>
+			<div style="height: 126px;width: 700;float: left;margin-left: -90px;margin-top: -60px;">
+				<pre style="font-size: 19px;">
+					<span style="color:#0066FF; font-weight:bold;">Apple MacBook Pro MLW72HN/A Laptop 2016</span> by Apple
+					<span style="color:#009900;">In stock</span>
+					M.R.P.:  <span style=" font-size:16px;"><strike>177,900.00</strike></span>
+					Price:	 <span style="color:#FF0000;">176,879.00</span> <span style="color:#009900;">FREE Delivery</span>
+    
+					Gift options not available.
+				</pre>
+			</div>
+			<div style="float: left;height: 126px;margin-top: -30px;font-size: 18px;margin-left: -90px;font-weight: bold;">
+				<pre>
+				Sold by J A K S (LLP)
+				(4.6 out of 5 | 403 ratings)
+				and Fulfilled by Amazon. Gift-wrap available.
+				<form action="delete.php" method="post">
 				<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;" type="submit" name="submit" value="REMOVE">
 				<input type="hidden" value=<?php echo $array_nameM5;  ?> name="array_name">
 				<input type="hidden" value=<?php echo $keyM5;  ?> name="key" >
 				<input type="hidden" value="Apple MacBook Pro MLW72HN/A Laptop 2016 (Core i7-2.6GHz/16GB/256GB/MacOS Sierra/2GB Graphic/Touch Bar),Silver by Apple" name='name'>
 			</form>
+				</pre>
+			</div>
+			
+		</div>
+		<hr>
+	</div>
+			
 <?php
 	}
 	if($_SESSION['value']=='Omen by HP - AX250TX - 15.6-inch Laptop (7th Gen Core i7-7700/16GB/1TB + 128 GB SSD /Nvidia GeForce 1050 TX GTX 4GB Graphics/ Windows 10 Home), Black With  MS Office 2016 H & S edition by HP')	
 	{
-		echo"Omen by HP - AX250TX - 15.6-inch Laptop (7th Gen Core i7-7700/16GB/1TB + 128 GB SSD /Nvidia GeForce 1050 TX GTX 4GB Graphics/ Windows 10 Home), Black With  MS Office 2016 H & S edition by HP";
 		$array_nameM5=$_SESSION['array_name'];
 		$keyM5=$_SESSION['key'];
 ?>
-			<form action="delete.php" method="post">
+	<div>
+		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+			<div style="margin-left:10px; padding:21px;">
+				<img src="images/71XKYg966RL._SL1500_.jpg" align="left" height="100" width="130" >
+			</div>
+			<div style="height: 126px;width: 700;float: left;margin-left: -90px;margin-top: -60px;">
+				<pre style="font-size: 19px;">
+					<span style="color:#0066FF; font-weight:bold;">Omen by HP - AX250TX - 15.6-inch Laptop</span> by HP
+					<span style="color:#009900;">In stock</span>
+					M.R.P.:  <span style=" font-size:16px;"><strike>116,47.00</strike></span>
+					Price:	 <span style="color:#FF0000;">106,990.00</span> <span style="color:#009900;">FREE Delivery</span>
+    
+					Gift options not available.
+				</pre>
+			</div>
+			<div style="float: left;height: 126px;margin-top: -30px;font-size: 18px;margin-left: -90px;font-weight: bold;">
+				<pre>
+				Sold by Cloudtail India
+				(4.3 out of 5 | 90,559 ratings)
+				and Fulfilled by Amazon. Gift-wrap available.
+				<form action="delete.php" method="post">
 				<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;" type="submit" name="submit" value="REMOVE">
 				<input type="hidden" value=<?php echo $array_nameM5;  ?> name="array_name">
 				<input type="hidden" value=<?php echo $keyM5;  ?> name="key" >
 				<input type="hidden" value="Omen by HP - AX250TX - 15.6-inch Laptop (7th Gen Core i7-7700/16GB/1TB + 128 GB SSD /Nvidia GeForce 1050 TX GTX 4GB Graphics/ Windows 10 Home), Black With  MS Office 2016 H & S edition by HP" name='name'>
 			</form>
+				</pre>
+			</div>
+			
+		</div>
+		<hr>
+	</div>
+
 <?php
 	}
 	if($_SESSION['value']=='HP Pavilion17 17.3 Inches Laptop(i7-6700HQ Quad Core/16 GB RAM/2 TB, 128 GB/Windows 10/Nvidoa),Silver by AC Adapter Included')	
 	{
-		echo"HP Pavilion17 17.3 Inches Laptop(i7-6700HQ Quad Core/16 GB RAM/2 TB, 128 GB/Windows 10/Nvidoa),Silver by AC Adapter Included";
 		$array_nameM5=$_SESSION['array_name'];
 		$keyM5=$_SESSION['key'];
 ?>
-			<form action="delete.php" method="post">
+	<div>
+		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+			<div style="margin-left:10px; padding:21px;">
+				<img src="images/41U6lfvHZDL.jpg" align="left" height="100" width="130" >
+			</div>
+			<div style="height: 126px;width: 700;float: left;margin-left: -90px;margin-top: -60px;">
+				<pre style="font-size: 19px;">
+					<span style="color:#0066FF; font-weight:bold;">HP Pavilion17 17.3 Inches Laptop</span> by HP
+					<span style="color:#009900;">In stock</span>
+					M.R.P.:  <span style=" font-size:16px;">101,500.00</span>
+					Price:	 <span style="color:#FF0000;">101,500.00</span> <span style="color:#009900;">FREE Delivery</span>
+    
+					Gift options not available.
+				</pre>
+			</div>
+			<div style="float: left;height: 126px;margin-top: -30px;font-size: 18px;margin-left: -90px;font-weight: bold;">
+				<pre>
+				Sold by Cglobal
+				(4.7 out of 5 | 31 ratings)
+				and Fulfilled by Amazon. Gift-wrap not available.
+				<form action="delete.php" method="post">
 				<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;" type="submit" name="submit" value="REMOVE">
 				<input type="hidden" value=<?php echo $array_nameM5;  ?> name="array_name">
 				<input type="hidden" value=<?php echo $keyM5;  ?> name="key" >
 				<input type="hidden" value="HP Pavilion17 17.3 Inches Laptop(i7-6700HQ Quad Core/16 GB RAM/2 TB, 128 GB/Windows 10/Nvidoa),Silver by AC Adapter Included" name='name'>
 			</form>
+				</pre>
+			</div>
+			
+		</div>
+		<hr>
+	</div>
+			
 <?php
 	}
 	if($_SESSION['value']=='HP Pavilion 15-ab522TX 15.6-inch Laptop (Core i5 6200U/8 GB/1TB/Windows 10 Home/4GB Graphics), Natural Silver by HP')	
 	{
-		echo"HP Pavilion 15-ab522TX 15.6-inch Laptop (Core i5 6200U/8 GB/1TB/Windows 10 Home/4GB Graphics), Natural Silver by HP";
 		$array_nameM5=$_SESSION['array_name'];
 		$keyM5=$_SESSION['key'];
 ?>
+	<div>
+		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+			<div style="margin-left:10px; padding:21px;">
+				<img src="images/4169WgIpMvL.jpg" align="left" height="100" width="130" >
+			</div>
+			<div style="height: 126px;width: 700;float: left;margin-left: -90px;margin-top: -60px;">
+				<pre style="font-size: 19px;">
+					<span style="color:#0066FF; font-weight:bold;">HP Pavilion 15-ab522TX 15.6-inch Laptop</span> by HP
+					<span style="color:#009900;">In stock</span>
+					M.R.P.:  <span style=" font-size:16px;"><strike>60,808.00</strike></span>
+					Price:	 <span style="color:#FF0000;">55,5990.00</span> <span style="color:#009900;">FREE Delivery</span>
+    
+					Gift options not available.
+				</pre>
+			</div>
+			<div style="float: left;height: 126px;margin-top: -30px;font-size: 18px;margin-left: -90px;font-weight: bold;">
+				<pre>
+				Sold by TabTree
+				(4.6 out of 5 | 99 ratings)
+				and Fulfilled by Amazon. Gift-wrap available.	
 			<form action="delete.php" method="post">
 				<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;" type="submit" name="submit" value="REMOVE">
 				<input type="hidden" value=<?php echo $array_nameM5;  ?> name="array_name">
 				<input type="hidden" value=<?php echo $keyM5;  ?> name="key" >
 				<input type="hidden" value="HP Pavilion 15-ab522TX 15.6-inch Laptop (Core i5 6200U/8 GB/1TB/Windows 10 Home/4GB Graphics), Natural Silver by HP" name='name'>
 			</form>
+				</pre>
+			</div>
+			
+		</div>
+		<hr>
+	</div>
+	
 <?php
 	}
 ?>
