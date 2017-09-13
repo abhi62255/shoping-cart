@@ -1,6 +1,5 @@
 <?php
 	session_start();
-	echo $_SESSION['m'];
 	if( empty($_SESSION['item'.$_SESSION['m']]))
 	{
 		echo "no item selected";
