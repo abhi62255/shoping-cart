@@ -11,9 +11,9 @@
 ?>
 						<html>
 						<body>
+						<a href="Apple iPhone 7 (Black, 32GB) by Apple.php">Apple iPhone 7 (Black, 32GB) by Apple</a>
+						<a href="Coolpad Note 5 (Space Grey, 32 GB) by Coolpad">Coolpad Note 5 (Space Grey, 32 GB) by Coolpad</a>
 							<form action="selected.php"; method="post">
-								<input type="checkbox" name="mobile[]" value="Apple iPhone 7 (Black, 32GB) by Apple">Apple iPhone 7 (Black, 32GB) by Apple<br>
-								<input type="checkbox" name="mobile[]" value="Coolpad Note 5 (Space Grey, 32 GB) by Coolpad" >Coolpad Note 5 (Space Grey, 32 GB) by Coolpad<br>
 								<input type="checkbox" name="mobile[]" value="Lenovo Z2 Plus (Black, 64GB) by Lenovo" >Lenovo Z2 Plus (Black, 64GB) by Lenovo<br>
 								<input type="checkbox" name="mobile[]" value="Samsung On5 Pro (Gold) by Samsung">Samsung On5 Pro (Gold) by Samsung<br>
 								<input type="checkbox" name="mobile[]" value="Moto G5s Plus (Lunar Grey, 64GB) by Motorola" >Moto G5s Plus (Lunar Grey, 64GB) by Motorola<br>
