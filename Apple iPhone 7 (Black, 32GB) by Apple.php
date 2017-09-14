@@ -27,7 +27,7 @@ tr:hover{background-color:#f5f5f5}
 			<img src="images/fellowship-amazon-logo.png"  align="left" align="top" height="100" width="200"/>
 		</div>
 		<div style="float: right;height: 40px;margin-top: 55px;margin-right: 5px;">
-			<h3 align="right" style="margin-right:10px; font-weight:bold;">Welcome Mr. Abhishek  <a href="home.php" style="text-decoration:none; color:#0066FF; font-weight:bold;">Home</a>   <a href="logout.php" style="text-decoration:none; color:#0066FF; font-weight:bold;">Log Out</a></h3>
+			<h3 align="right" style="margin-right:10px; font-weight:bold;">Welcome Mr. Abhishek &nbsp;&nbsp; <a href="home.php" style="text-decoration:none; color:#0066FF; font-weight:bold;">Home&nbsp;&nbsp;</a> <a href="cart.php" style="text-decoration:none; color:#0066FF; font-weight:bold;">Cart&nbsp;&nbsp;</a>  <a href="logout.php" style="text-decoration:none; color:#0066FF; font-weight:bold;">Log Out</a></h3>
 		</div>	
 	</div>
 	<hr>
@@ -81,7 +81,7 @@ tr:hover{background-color:#f5f5f5}
 		<tr><th>Item Weight</th><td>136 g</td><th>Sepical Features</th><td>Splash, water and dust resistant, Touch ID fingerprint sensor, 3D Touch</td></tr>
 		<tr><th>Item Model Number</th><td>iPhone 7</td><th>Resolution</th><td>326 ppi</td></tr>
 		<tr><th>Product Dimensions</th><td>13.8 x 0.7 x 6.7 cm</td><th>Other camera features</th><td>7MP</td></tr>
-		<tr><th>Weight</th><td></td><th>Form factor</th><td>Touchscreen Phone</td></tr>
+		<tr><th>Weight</th><td>136 g</td><th>Form factor</th><td>Touchscreen Phone</td></tr>
 		<tr><th>Whats in the box</th><td>EarPods with Lightning Connector (wired), Lightning to 3.5mm Headphone Jack,USB Cable,Adapter</td><th>Battery Power Rating</th><td>1960</td></tr>
 	</table>
 </div>
