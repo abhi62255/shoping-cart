@@ -5,8 +5,8 @@
 </head>
 
 <body>
+	<a href="mobile.php">Mobiles</a>
 	<form action="select.php" method="post">
-		<input  type="radio" name="item" value="1" required/>Mobiles
 		<input  type="radio" name="item" value="2" required/>Pendrives
 		<input  type="radio" name="item" value="3" required/>Ipod
 		<input  type="radio" name="item" value="4" required/>Laptop
