@@ -52,6 +52,7 @@ tr:hover{background-color:#f5f5f5}
 				Sold by <span style="color:#0033FF;">Darshita Electronics</span> (4.4 out of 5 | 11,443 ratings) and <span style="color:#0033FF;">Fulfilled by Amazon.</span><br /> <span style="font-family:'Courier New', Courier, monospace;">Gift-wrap available.</span>
 				<form action="selected.php" method="post">
 					<input type="hidden" name="mobile[]" value="Moto G5s Plus (Lunar Grey, 64GB) by Motorola">
+					<input type="hidden" name="price" value="15990">
 					<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;" type="submit" name="mobile1" value="ADD TO CART">
 				</form>
 				

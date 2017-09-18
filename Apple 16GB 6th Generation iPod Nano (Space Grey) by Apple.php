@@ -51,7 +51,8 @@ tr:hover{background-color:#f5f5f5}
 					<span style="color:#009900; font-weight: bold;">In stock.</span><br /><br />
 				Sold by <span style="color:#0033FF;"> offerbajar</span> (4.2 out of 5 | 108 ratings)<!-- and <span style="color:#0033FF;">Fulfilled by Amazon.</span><br /> <span style="font-family:'Courier New', Courier, monospace;">Gift-wrap available.</span>-->
 				<form action="selected.php" method="post">
-				<input type="hidden" name="ipod[]" value="Apple 16GB 6th Generation iPod Nano (Space Grey) by Apple" >
+					<input type="hidden" name="ipod[]" value="Apple 16GB 6th Generation iPod Nano (Space Grey) by Apple" >
+					<input type="hidden" name="price" value="12999">
 					<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;"type="submit" name="ipod1" value="ADD TO CART">
 				</form>
 				

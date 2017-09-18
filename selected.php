@@ -4,6 +4,8 @@
 	$_SESSION['k2']=0;
 	$_SESSION['k3']=0;
 	$_SESSION['k4']=0;
+	$_SESSION['price']=$_SESSION['price']+$_POST['price'];
+	$_SESSION['no']=$_SESSION['no']+1;
 	if(isset($_POST['mobile1']))
 	{	
 		$item="item".$_SESSION['m'];

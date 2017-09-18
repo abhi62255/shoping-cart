@@ -52,6 +52,7 @@ tr:hover{background-color:#f5f5f5}
 				Sold by <span style="color:#0033FF;">  Red Store</span> (4.4 out of 5 | 24 ratings) and <span style="color:#0033FF;">Fulfilled by Amazon.</span><br /> <span style="font-family:'Courier New', Courier, monospace;">Gift-wrap available.</span>
 				<form action="selected.php" method="post">
 				<input type="hidden" name="pendrive[]" value="SanDisk Cruzer Force 16GB USB Flash Drive by MATEL CASING" >
+				<input type="hidden" name="price" value="582">
 					<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;"type="submit" name="pendrive1" value="ADD TO CART">
 				</form>
 				

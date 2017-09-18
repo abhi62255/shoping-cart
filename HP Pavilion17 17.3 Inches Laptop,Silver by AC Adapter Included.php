@@ -52,6 +52,7 @@ tr:hover{background-color:#f5f5f5}
 				Sold by <span style="color:#0033FF;"> Cglobal</span> (4.7 out of 5 | 31 ratings) and <span style="color:#0033FF;">Fulfilled by Amazon.</span><br /> <span style="font-family:'Courier New', Courier, monospace;">Gift-wrap available.</span>
 				<form action="selected.php" method="post">
 				<input type="hidden" name="laptop[]" value="HP Pavilion17 17.3 Inches Laptop(i7-6700HQ Quad Core/16 GB RAM/2 TB, 128 GB/Windows 10/Nvidoa),Silver by AC Adapter Included" >
+				<input type="hidden" name="price" value="101500">
 					<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;"type="submit" name="laptop1" value="ADD TO CART">
 				</form>
 				

@@ -51,7 +51,8 @@ tr:hover{background-color:#f5f5f5}
 					<span style="color:#009900; font-weight: bold;">In stock.</span><br /><br />
 				Sold by <span style="color:#0033FF;">FIRST ENTERPRISES</span> (4.6 out of 5 | 50 ratings) and <span style="color:#0033FF;">Fulfilled by Amazon.</span><br /> <span style="font-family:'Courier New', Courier, monospace;">Gift-wrap available.</span>
 				<form action="selected.php" method="post">
-				<input type="hidden" name="laptop[]" value="Apple MacBook Pro MJLQ2HN/A 15-inch Laptop (Core i7/16GB/256GB/Mac OS/Integrated Graphics) by MacSafe" >
+					<input type="hidden" name="laptop[]" value="Apple MacBook Pro MJLQ2HN/A 15-inch Laptop (Core i7/16GB/256GB/Mac OS/Integrated Graphics) by MacSafe" >
+					<input type="hidden" name="price" value="140875">
 					<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;"type="submit" name="laptop1" value="ADD TO CART">
 				</form>
 				

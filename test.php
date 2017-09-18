@@ -1,10 +1,9 @@
-
 <html>
 <head>
 	<title>test</title>
 </head>
 <body bgcolor="#CCCCCC">
-<div style="background-color:#FFFFFF; height:100px; width:1264px; margin-top:0px; border-radius:5px;">
+<div style="background-color:#FFFFFF; height:100px; width:1247px; margin-top:0px; border-radius:5px;">
 		<div style="float:left;">
 			<img src="images/fellowship-amazon-logo.png"  align="left" align="top" height="100" width="200"/>
 		</div>
@@ -13,9 +12,12 @@
 		</div>	
 	</div>
 	<hr>
-	<div style="background-color:#FFFFFF;height: 40px;margin-top: -11px; border-radius:5px;">
+	<div style="background-color:#FFFFFF;height: 40px;margin-top: -11px; border-radius:5px; width:1247px;">
 		<div style="margin-left:10px; margin-top:18px;">
 			<h2 style="padding-top:5px;">Shoping Cart</h2>
+			<div style="width: 260px;float: right; margin-top:-41px;">
+		<span style="font-size: 22px;font-weight: bold;font-family: monospace;">Subtotal (<?php echo $_SESSION['no']; ?> items):<span style="color:B12704">&#x20b9;<?php echo $_SESSION['price']; ?></span></span>
+	</div>
 		</div>
 	</div>
 	<hr>
@@ -24,7 +26,6 @@
 	{
 ?>
 <?php
-
 	
 	if($_SESSION['value']=='Apple iPhone 7 (Black, 32GB) by Apple')
 	{
@@ -33,7 +34,7 @@
 ?>
 	
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/51odjdfuPTL.jpg" align="left" height="100" width="50" >
 			</div>
@@ -73,7 +74,7 @@
 		$keyM2=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/81TAKGVP7pL._SL1500_.jpg" align="left" height="100" width="50" >
 			</div>
@@ -114,7 +115,7 @@
 		$keyM3=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/71-0MKi0drL._SL1500_.jpg" align="left" height="100" width="50" >
 			</div>
@@ -155,7 +156,7 @@
 		$keyM4=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/81mKtZOvUmL._SL1500_.jpg" align="left" height="100" width="50" >
 			</div>
@@ -195,7 +196,7 @@
 		$keyM5=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/71hLfPtWi4L._SL1200_.jpg" align="left" height="100" width="50" >
 			</div>
@@ -235,7 +236,7 @@
 		$keyM5=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/71Q8QsmuSAL._SL1417_.jpg" align="left" height="100" width="75" >
 			</div>
@@ -275,7 +276,7 @@
 		$keyM5=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/61wwFOWnEGL._SL1500_.jpg" align="left" height="100" width="75" >
 			</div>
@@ -315,7 +316,7 @@
 		$keyM5=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/61x2-N8ea+L._SL1100_.jpg" align="left" height="100" width="75" >
 			</div>
@@ -355,7 +356,7 @@
 		$keyM5=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/61IQNDSjIQL._SL1500_.jpg" align="left" height="100" width="75" >
 			</div>
@@ -394,7 +395,7 @@
 		$keyM5=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/51sSkMlxqgL.jpg" align="left" height="100" width="75" >
 			</div>
@@ -434,7 +435,7 @@
 		$keyM5=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/21h5V3qDQmL.jpg" align="left" height="100" width="75" >
 			</div>
@@ -474,7 +475,7 @@
 		$keyM5=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/41X+I8ExTlL.jpg" align="left" height="100" width="75" >
 			</div>
@@ -514,7 +515,7 @@
 		$keyM5=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/31mWIbN1qML.jpg" align="left" height="100" width="75" >
 			</div>
@@ -554,7 +555,7 @@
 		$keyM5=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/71UqSAcUeaL._SL1500_.jpg" align="left" height="100" width="130" >
 			</div>
@@ -594,7 +595,7 @@
 		$keyM5=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/41q0Oprn2IL.jpg" align="left" height="100" width="130" >
 			</div>
@@ -634,7 +635,7 @@
 		$keyM5=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/71XKYg966RL._SL1500_.jpg" align="left" height="100" width="130" >
 			</div>
@@ -674,7 +675,7 @@
 		$keyM5=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/41U6lfvHZDL.jpg" align="left" height="100" width="130" >
 			</div>
@@ -714,7 +715,7 @@
 		$keyM5=$_SESSION['key'];
 ?>
 	<div>
-		<div style="background-color:#FFFFFF; height:150px; width:1264px; margin-top:0px; border-radius:5px;">
+		<div style="background-color:#FFFFFF; height:150px; width:1247px; margin-top:0px; border-radius:5px;">
 			<div style="margin-left:10px; padding:21px;">
 				<img src="images/4169WgIpMvL.jpg" align="left" height="100" width="130" >
 			</div>
@@ -749,8 +750,8 @@
 <?php
 	}
 ?>
-</body>
-</html>
 <?php
 }
 ?>
+	</body>
+	</html>
