@@ -16,7 +16,7 @@
 		<div style="margin-left:10px; margin-top:18px;">
 			<h2 style="padding-top:5px;">Shoping Cart</h2>
 			<div style="width: 260px;float: right; margin-top:-41px;">
-		<span style="font-size: 22px;font-weight: bold;font-family: monospace;">Subtotal (<?php echo $_SESSION['no']; ?> items):<span style="color:B12704">&#x20b9;<?php echo $_SESSION['price']; ?></span></span>
+		<span style="font-size: 22px;font-weight: bold;font-family: monospace; margin-left:-57px">Subtotal (<?php echo $_SESSION['no']; ?> items):<span style="color:B12704">&#x20b9;<?php echo $_SESSION['price']; ?></span></span>
 	</div>
 		</div>
 	</div>

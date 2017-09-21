@@ -48,9 +48,9 @@
 <div>
 	<div class="slider" id="main-slider" style="margin-top:0px;"><!-- outermost container element -->
 	<div class="slider-wrapper"><!-- innermost wrapper element -->
-		<img src="images/home (3).jpg" alt="First" class="slide" /><!-- slides -->
-		<img src="images/home (2).jpg" class="slide" />
-		<img src="images/home (1).jpg" alt="Third" class="slide" />
+		<img src="images/pendrive (1).jpg" alt="First" class="slide" /><!-- slides -->
+		<img src="images/pendrive (2).jpg" class="slide" />
+		<img src="images/pendrive (3).jpg" alt="Third" class="slide" />
 	</div>
 	</div>	
 	<script>
@@ -123,49 +123,61 @@
 
 	</script>
 </div>
-<a href="mobile.php" style="text-decoration:none;">
+<a href="Strontium Ammo 16GB 2.0 USB Pen Drive (Silver).php" style="text-decoration:none;">
 <div style="background:url(images/blue_color_background_sea_wall_wave_72426_3840x1200.jpg); height:300px; margin-top:-32px;">
 	<div style="margin-left:100px; padding-top:100px;">
-		<span style="color:#FFFFFF; font-size:30px;">Mobiles</span>
+		<span style="color:#FFFFFF; font-size:30px;">Strontium Ammo 16GB <br>2.0 USB Pen Drive <br>Silver</span>
 	</div>
-	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -116px;border-radius: 5px;">
-		<img src="images/mob.jpg" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
+	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -170px;border-radius: 5px;">
+		<img src="images/51sSkMlxqgL.jpg" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
 	</div>
 
 </div></a><hr><hr><hr>
 
 
-<a href="pendrive.php" style="text-decoration:none;">
+<a href="SanDisk Cruzer Blade 32GB USB Flash Drive by Copper.php" style="text-decoration:none;">
 <div style="background:url(images/blue_color_background_sea_wall_wave_72426_3840x1200.jpg); height:300px; margin-top:-32px;">
 	<div style="margin-left:100px; padding-top:100px;">
-		<span style="color:#FFFFFF; font-size:30px;"><span>Pendrives</span>
+		<span style="color:#FFFFFF; font-size:30px;"><span>SanDisk Cruzer Blade <br> 32GB <br>USB Flash Drive</span>
 	</div>
-	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -116px;border-radius: 5px;">
-		<img src="images/pen.jpg" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
+	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -170px;border-radius: 5px;">
+		<img src="images/71Q8QsmuSAL._SL1417_.jpg" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
 	</div>
 
 </div></a><hr><hr><hr>
 
 
-<a href="ipod.php" style="text-decoration:none;">
+<a href="SanDisk Ultra Dual 32GB USB 3.0 OTG Pen Drive by SanDisk.php" style="text-decoration:none;">
 <div style="background:url(images/blue_color_background_sea_wall_wave_72426_3840x1200.jpg); height:300px; margin-top:-32px;">
 	<div style="margin-left:100px; padding-top:100px;">
-		<span style="color:#FFFFFF; font-size:30px;"><span>Ipod</span></span>
+		<span style="color:#FFFFFF; font-size:30px;"><span>SanDisk Ultra Dual<br> 32GB USB 3.0 OTG<br> Pen Drive</span></span>
 	</div>
-	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -116px;border-radius: 5px;">
-		<img src="images/ipod.jpg" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
+	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -170px;border-radius: 5px;">
+		<img src="images/61wwFOWnEGL._SL1500_.jpg" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
 	</div>
 
 </div></a><hr><hr><hr>
 
 
-<a href="laptop.php" style="text-decoration:none;">
+<a href="SanDisk Cruzer Force 16GB USB Flash Drive by MATEL CASING.php" style="text-decoration:none;">
 <div style="background:url(images/blue_color_background_sea_wall_wave_72426_3840x1200.jpg); height:300px; margin-top:-32px;">
 	<div style="margin-left:100px; padding-top:100px;">
-		<span style="color:#FFFFFF; font-size:30px;"><span>Laptops</span></span>
+		<span style="color:#FFFFFF; font-size:30px;"><span>SanDisk Cruzer Force <br>16GB <br>USB Flash Drive</span></span>
 	</div>
-	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -116px;border-radius: 5px;">
-		<img src="images/lap.png" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
+	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -170px;border-radius: 5px;">
+		<img src="images/61x2-N8ea+L._SL1100_.jpg" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
+	</div>
+
+</div></a><hr><hr><hr>
+
+
+<a href="Strontium Nitro Plus OTG Pen Drive, USB3.0, 32GB.php" style="text-decoration:none;">
+<div style="background:url(images/blue_color_background_sea_wall_wave_72426_3840x1200.jpg); height:300px; margin-top:-32px;">
+	<div style="margin-left:100px; padding-top:100px;">
+		<span style="color:#FFFFFF; font-size:30px;"><span>Strontium Nitro Plus <br>OTG Pen Drive USB3.0<br> 32GB</span></span>
+	</div>
+	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -170px;border-radius: 5px;">
+		<img src="images/61IQNDSjIQL._SL1500_.jpg" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
 	</div>
 
 </div></a>

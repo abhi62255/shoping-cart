@@ -1,19 +1,8 @@
 <?php
 	session_start();
-	if( empty($_SESSION['item'.$_SESSION['m']]))
-	{
-		echo "no item selected";
-	}
-	else
-	{
-		echo"item enter successful";
-	}
-	$_SESSION['m']=$_SESSION['m']+1;
+		$_SESSION['m']=$_SESSION['m']+1;
+	header('Location: cart.php');
+
+
 	
 ?>
-
-<html>
-<body>
-	<a href="home.php">HOME</a>
-</body>
-</html>

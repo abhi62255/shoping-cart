@@ -48,9 +48,9 @@
 <div>
 	<div class="slider" id="main-slider" style="margin-top:0px;"><!-- outermost container element -->
 	<div class="slider-wrapper"><!-- innermost wrapper element -->
-		<img src="images/home (3).jpg" alt="First" class="slide" /><!-- slides -->
-		<img src="images/home (2).jpg" class="slide" />
-		<img src="images/home (1).jpg" alt="Third" class="slide" />
+		<img src="images/ipod (1).jpg" alt="First" class="slide" /><!-- slides -->
+		<img src="images/ipod (2).jpg" class="slide" />
+		<img src="images/ipod (3).jpg" alt="Third" class="slide" />
 	</div>
 	</div>	
 	<script>
@@ -123,52 +123,43 @@
 
 	</script>
 </div>
-<a href="mobile.php" style="text-decoration:none;">
+<a href="Apple iPod Shuffle MKMJ2HNA 2GB Music Player (Space Grey) by Apple.php" style="text-decoration:none;">
 <div style="background:url(images/blue_color_background_sea_wall_wave_72426_3840x1200.jpg); height:300px; margin-top:-32px;">
 	<div style="margin-left:100px; padding-top:100px;">
-		<span style="color:#FFFFFF; font-size:30px;">Mobiles</span>
+		<span style="color:#FFFFFF; font-size:30px;">Apple iPod Shuffle <br> MKMJ2HN/A 2GB Music Player <br>Space Grey</span>
 	</div>
-	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -116px;border-radius: 5px;">
-		<img src="images/mob.jpg" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
+	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -170px;border-radius: 5px;">
+		<img src="images/21h5V3qDQmL.jpg" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
 	</div>
 
 </div></a><hr><hr><hr>
 
 
-<a href="pendrive.php" style="text-decoration:none;">
+<a href="Captcha Green Sports Shuffle Real Aluminium Metal Body Mp3 Audio Music Player With Tf Card Slot (One Year Warranty, Color May Vary) by captcha.php" style="text-decoration:none;">
 <div style="background:url(images/blue_color_background_sea_wall_wave_72426_3840x1200.jpg); height:300px; margin-top:-32px;">
 	<div style="margin-left:100px; padding-top:100px;">
-		<span style="color:#FFFFFF; font-size:30px;"><span>Pendrives</span>
+		<span style="color:#FFFFFF; font-size:30px;"><span>Captcha Green Sports Shuffle<br> Real Aluminium Metal Body<br> Mp3</span>
 	</div>
-	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -116px;border-radius: 5px;">
-		<img src="images/pen.jpg" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
+	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -170px;border-radius: 5px;">
+		<img src="images/41X+I8ExTlL.jpg" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
 	</div>
 
 </div></a><hr><hr><hr>
 
 
-<a href="ipod.php" style="text-decoration:none;">
+<a href="Apple 16GB 6th Generation iPod Nano (Space Grey) by Apple.php" style="text-decoration:none;">
 <div style="background:url(images/blue_color_background_sea_wall_wave_72426_3840x1200.jpg); height:300px; margin-top:-32px;">
 	<div style="margin-left:100px; padding-top:100px;">
-		<span style="color:#FFFFFF; font-size:30px;"><span>Ipod</span></span>
+		<span style="color:#FFFFFF; font-size:30px;"><span>Apple 16GB <br>6th Generation iPod Nano <br>Space Grey</span></span>
 	</div>
-	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -116px;border-radius: 5px;">
-		<img src="images/ipod.jpg" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
-	</div>
-
-</div></a><hr><hr><hr>
-
-
-<a href="laptop.php" style="text-decoration:none;">
-<div style="background:url(images/blue_color_background_sea_wall_wave_72426_3840x1200.jpg); height:300px; margin-top:-32px;">
-	<div style="margin-left:100px; padding-top:100px;">
-		<span style="color:#FFFFFF; font-size:30px;"><span>Laptops</span></span>
-	</div>
-	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -116px;border-radius: 5px;">
-		<img src="images/lap.png" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
+	<div style=" background-color:#FFFFFF;height: 266px;width: 300px;float: right;margin-right: 120px;margin-top: -170px;border-radius: 5px;">
+		<img src="images/31mWIbN1qML.jpg" height="220px" width="125px " style="margin-left: 90px;margin-top: 24px;">
 	</div>
 
 </div></a>
+
+
+
 	
 	
 </body>
