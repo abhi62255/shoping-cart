@@ -128,6 +128,7 @@
 		$_SESSION['price']=$_SESSION['price']-55990;
 		$_SESSION['no']=$_SESSION['no']-1;
 	}
+	$_SESSION['su']=1;
 	header('Location: cart.php');
 	
 ?>

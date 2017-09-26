@@ -22,6 +22,18 @@
 	</div>
 	<hr>
 <?php
+	if($_SESSION['su']==1)
+	{
+?>
+	<div style=" background-color:#FFFFFF; height:18px; width:1264px;">
+		<span style=" color:#009900; font-weight:bold; margin-left:500px;">Your Item Removed From Cart Successfully</span>
+	</div>
+	<hr>
+<?php
+	$_SESSION['su']=0;
+	}
+?>
+<?php
 	function call()
 	{
 ?>
