@@ -12,6 +12,7 @@
 		$_SESSION[$item]=$_POST['mobile'];
 		$_SESSION['itemm']=1;
 		$_SESSION['k']=1;
+		$_SESSION['now']=$_POST['mobile'];
 		header('Location: success.php');
 	
 	}
@@ -21,6 +22,7 @@
 		$_SESSION[$item2]=$_POST['pendrive'];
 		$_SESSION['itemp']=1;
 		$_SESSION['k2']=1;	
+		$_SESSION['now']=$_POST['pendrive'];
 		header('Location: success2.php');
 	}
 	if(isset($_POST['ipod1']))
@@ -29,6 +31,7 @@
 		$_SESSION[$item3]=$_POST['ipod'];
 		$_SESSION['itemi']=1;
 		$_SESSION['k3']=1;	
+		$_SESSION['now']=$_POST['ipod'];
 		header('Location: success3.php');
 	}
 	if(isset($_POST['laptop1']))
@@ -37,6 +40,7 @@
 		$_SESSION[$item4]=$_POST['laptop'];
 		$_SESSION['iteml']=1;
 		$_SESSION['k4']=1;
+		$_SESSION['now']=$_POST['laptop'];
 		header('Location: success4.php');
 	}
 		

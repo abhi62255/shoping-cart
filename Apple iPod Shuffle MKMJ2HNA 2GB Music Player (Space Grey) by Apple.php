@@ -1,6 +1,7 @@
 
 <?php
 		//echo "Apple iPhone 7 (Black, 32GB) by Apple";
+		session_start();
 ?>
 <html>
 <head>
@@ -31,6 +32,18 @@ tr:hover{background-color:#f5f5f5}
 		</div>	
 	</div>
 	<hr>
+<?php
+	if($_SESSION['su']==1)
+	{
+?>
+	<div style=" background-color:#FFFFFF; height:18px; width:1264px;">
+		<span style=" color:#009900; font-weight:bold; margin-left:500px;">Your Item Added To Cart Successfully</span>
+	</div>
+	<hr>
+<?php
+	$_SESSION['su']=0;
+	}
+?>
 	<div style="background-color:#FFFFFF; height:900px;">
 	<!-- <form action="selected.php" method="post">
 		<input type="hidden" name="mobile[]" value="Apple iPhone 7 (Black, 32GB) by Apple">
@@ -51,7 +64,7 @@ tr:hover{background-color:#f5f5f5}
 					<span style="color:#009900; font-weight: bold;">In stock.</span><br /><br />
 				Sold by <span style="color:#0033FF;">  ADVANCE MAX</span> (4.2 out of 5 | 108 ratings) and <span style="color:#0033FF;">Fulfilled by Amazon.</span><br /> <span style="font-family:'Courier New', Courier, monospace;">Gift-wrap available.</span>
 				<form action="selected.php" method="post">
-					<input type="hidden" name="ipod[]" value="Apple iPod Shuffle MKMJ2HN/A 2GB Music Player (Space Grey) by Apple" >
+					<input type="hidden" name="ipod" value="Apple iPod Shuffle MKMJ2HN/A 2GB Music Player (Space Grey) by Apple" >
 					<input type="hidden" name="price" value="3809">
 					<input style="height:25px; width:100px; font-weight:bold; background-color:#0099FF; color:#FFFFFF;"type="submit" name="ipod1" value="ADD TO CART">
 				</form>
